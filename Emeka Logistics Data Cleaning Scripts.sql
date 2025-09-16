@@ -1,6 +1,6 @@
 /* ================================================================
    PROJECT: Ebuka Logistics Order Data Cleaning
-   AUTHOR : Data Professor
+   AUTHOR : Data Professional
    PURPOSE: Clean, transform, and standardize customer order data
             imported from CSV into MySQL for reliable analysis.
 ================================================================ */
